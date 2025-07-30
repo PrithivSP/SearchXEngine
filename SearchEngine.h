@@ -29,7 +29,7 @@ public:
         string fileToSearch;
         string root;
 
-        root = "C:/Users/prith/Downloads";
+        root = "C:/Users/god/Downloads";
         cout << "Enter file to search: ";
         getline(cin, fileToSearch);
 
